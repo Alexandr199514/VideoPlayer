@@ -1,0 +1,17 @@
+{
+  "itemGroup.videoplayer.items": "Видео плеер",
+
+  "gui.tv_video_screen.title": "Телевизор",
+  "gui.tv_video_screen.save": "Сохранить",
+
+  "item.videoplayer.tv_block": "ТВ",
+
+  "block.videoplayer.tv_block": "ТВ",
+  "gui.tv_video_screen.play": "Play",
+  "gui.tv_video_screen.pause": "Pause",
+  "gui.tv_video_screen.stop": "Stop",
+  "gui.tv_video_screen.url_text": "Url:",
+  "gui.tv_video_screen.volume": "Громкость",
+
+  "customslider.videoplayer.value": "%s: %d"
+}
